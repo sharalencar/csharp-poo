@@ -1,0 +1,14 @@
+C:\Users\Shara Alencar\Documents\Alura\csharp-poo\bin\Debug\net8.0\csharp-poo.exe
+C:\Users\Shara Alencar\Documents\Alura\csharp-poo\bin\Debug\net8.0\csharp-poo.deps.json
+C:\Users\Shara Alencar\Documents\Alura\csharp-poo\bin\Debug\net8.0\csharp-poo.runtimeconfig.json
+C:\Users\Shara Alencar\Documents\Alura\csharp-poo\bin\Debug\net8.0\csharp-poo.dll
+C:\Users\Shara Alencar\Documents\Alura\csharp-poo\bin\Debug\net8.0\csharp-poo.pdb
+C:\Users\Shara Alencar\Documents\Alura\csharp-poo\obj\Debug\net8.0\csharp-poo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shara Alencar\Documents\Alura\csharp-poo\obj\Debug\net8.0\csharp-poo.AssemblyInfoInputs.cache
+C:\Users\Shara Alencar\Documents\Alura\csharp-poo\obj\Debug\net8.0\csharp-poo.AssemblyInfo.cs
+C:\Users\Shara Alencar\Documents\Alura\csharp-poo\obj\Debug\net8.0\csharp-poo.csproj.CoreCompileInputs.cache
+C:\Users\Shara Alencar\Documents\Alura\csharp-poo\obj\Debug\net8.0\csharp-poo.dll
+C:\Users\Shara Alencar\Documents\Alura\csharp-poo\obj\Debug\net8.0\refint\csharp-poo.dll
+C:\Users\Shara Alencar\Documents\Alura\csharp-poo\obj\Debug\net8.0\csharp-poo.pdb
+C:\Users\Shara Alencar\Documents\Alura\csharp-poo\obj\Debug\net8.0\csharp-poo.genruntimeconfig.cache
+C:\Users\Shara Alencar\Documents\Alura\csharp-poo\obj\Debug\net8.0\ref\csharp-poo.dll
